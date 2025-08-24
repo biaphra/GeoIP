@@ -227,6 +227,6 @@ Respeite os termos de uso das APIs utilizadas.
 
 ---
 
-**Versão**: 1.0  
-**Data**: Janeiro 2024  
+**Versão**: v1.0  
+**Data**: 22 de ago 2025  
 **Status**: Produção
