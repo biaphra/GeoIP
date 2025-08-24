@@ -2,6 +2,8 @@
 
 Sistema completo de geolocalização de endereços IP para analistas de segurança cibernética.
 
+![Screenshot do projeto](img/capa.png)
+
 ## 🚀 Características
 
 - **Suporte IPv4 e IPv6**: Análise completa de ambos os protocolos
